@@ -1,4 +1,5 @@
-android_device_samsung_e120k-10.1
-==================================
+Copyright 2012 - The CyanogenMod Project
 
-Device SHV-E120K CM 10.1
+Device configuration for Samsung Galaxy S II SHV-E120K.
+
+WORK IN PROGRESS. WILL EAT YOUR CAT.

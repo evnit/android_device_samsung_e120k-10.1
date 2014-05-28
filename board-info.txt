@@ -1,0 +1,2 @@
+require version-baseband=E120KKKMK1
+
