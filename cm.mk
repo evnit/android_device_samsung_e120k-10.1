@@ -1,4 +1,4 @@
-$(call inherit-product, device/samsung/e120k/full_skyrocket.mk)
+$(call inherit-product, device/samsung/e120k/full_e120k.mk)
 
 # Inherit some common CM stuff.
 $(call inherit-product, vendor/cm/config/gsm.mk)
